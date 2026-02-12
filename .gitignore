@@ -23,10 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 
-# Screenshots and development artifacts
-*.png
-*.py
-*.pdf
+# Screenshots and development artifacts (root level only)
+/*.png
+/*.py
+/*.pdf
 
 # Claude
 .claude/
