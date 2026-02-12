@@ -1,0 +1,10 @@
+# Screenshots and development artifacts
+*.png
+*.py
+*.pdf
+
+# Claude
+.claude/
+
+# OS
+.DS_Store

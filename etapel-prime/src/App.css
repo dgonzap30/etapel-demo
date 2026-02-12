@@ -1,0 +1,12 @@
+.etapel-app {
+  position: relative;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+#root {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
