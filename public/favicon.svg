@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Red stripe - top right diagonal -->
+  <path d="M32 4 C40 4, 54 6, 58 10 C54 14, 44 16, 38 14 C34 12, 30 8, 32 4Z" fill="#D50032" stroke="none"/>
+  <!-- Green stripe - middle diagonal -->
+  <path d="M20 14 C30 12, 50 14, 56 20 C50 24, 38 24, 30 22 C24 20, 18 18, 20 14Z" fill="#4A9B2F" stroke="none"/>
+  <!-- Yellow swoosh - large C curve -->
+  <path d="M14 26 C26 24, 46 28, 52 36 C58 44, 48 56, 32 58 C18 60, 6 52, 6 42 C6 36, 10 32, 16 34 C12 38, 14 48, 28 50 C38 52, 46 46, 42 38 C38 32, 24 28, 14 30Z" fill="#F5A623" stroke="none"/>
+</svg>
